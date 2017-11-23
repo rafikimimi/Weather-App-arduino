@@ -1,0 +1,10 @@
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\bin\Debug\Meteolology.exe.config
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\bin\Debug\Meteolology.exe
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\bin\Debug\Meteolology.pdb
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\obj\Debug\Meteolology.csprojResolveAssemblyReference.cache
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\obj\Debug\Meteolology.Form1.resources
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\obj\Debug\Meteolology.Properties.Resources.resources
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\obj\Debug\Meteolology.csproj.GenerateResource.Cache
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\obj\Debug\Meteolology.exe
+c:\users\suleiman\documents\visual studio 2015\Projects\Meteolology\Meteolology\obj\Debug\Meteolology.pdb
+C:\Users\Suleiman\Documents\Visual Studio 2015\Projects\Meteolology\Meteolology\bin\Debug\MySql.Data.dll
